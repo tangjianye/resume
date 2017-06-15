@@ -2,17 +2,18 @@
 
 - 手机号码：18680689772
 - Email：jaya.tang.vip@gmail.com
-- QQ/微信号：457413151
+- QQ / 微信号：457413151
 
 ---
 
 # 个人信息
 
-- 唐建业/男/1987 
-- 本科/湖南科技大学电子信息工程专业 
+- 唐建业 / 男 / 1987 
+- 本科 / 湖南科技大学电子信息工程专业 
 - 工作年限：8年
-- 技术博客：https://tangjianye.github.io
-- 期望职位：Android高级程序员，应用架构师
+- 技术博客：[https://tangjianye.github.io](https://tangjianye.github.io)
+- 开源项目：[https://github.com/tangjianye](https://github.com/tangjianye)
+- 期望职位：Android高级程序员、应用架构师
 - 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
 - 期望城市：长沙
 
@@ -28,7 +29,7 @@
 
 工作职责描述：  
 - 负责移动端(android、ios)项目的工作任务和工作计划的制定、分配和日程管理
-- 负责android项目的框架搭建，代码规范的编写
+- 负责android项目的框架搭建、代码规范的编写
 - 负责android项目公共库的搭建，上传jcenter仓库供其他项目使用
 - 负责搭建和部署APP持续集成、每日构建和代码检查的环境
 
@@ -74,7 +75,7 @@ APPcrash的监控和内存检查的引入让项目的BUG在开发阶段就及早
 
 工作职责描述：  
 - Android App的设计和讨论会，制定开发计划，负责手机软件的开发和维护工作，保证产品的顺利上线
-- MTK软件的开发和维护：制作了两款小游戏，贪吃蛇游戏和数独游戏；给音乐播放器添加了全屏幕歌词显示功能。
+- MTK软件的开发和维护：制作了两款小游戏，贪吃蛇游戏和数独游戏；给音乐播放器添加了全屏幕歌词显示功能
 
 ### Amigo壁纸应用 
 
@@ -90,7 +91,7 @@ APPcrash的监控和内存检查的引入让项目的BUG在开发阶段就及早
 
 工作职责描述：  
 - 在该公司主要负责MTK软件产品的开发和管理工作
-- 参与或者独立开发的项目：MTK游戏包括砖块逃亡，疯狂投篮和疯狂绵羊。MTK应用包括浏览器和音乐播放器应用。
+- 参与或者独立开发的项目：MTK游戏包括砖块逃亡，疯狂投篮和疯狂绵羊；MTK应用包括浏览器和音乐播放器应用
 
 ### 音乐播放器应用 
 
@@ -104,16 +105,28 @@ APPcrash的监控和内存检查的引入让项目的BUG在开发阶段就及早
 
 ---
 
+# 开源项目和作品
+
+## 技术文章
+简单罗列几个我的blog文章链接，也可以直接进入我的博客空间[https://tangjianye.github.io](https://tangjianye.github.io)查看全部blog。
+
+- [Android应用商店上架指南](https://tangjianye.github.io/android/2017/05/12/android-online-guide)
+- [Android项目集成Sonar](https://tangjianye.github.io/tools/2017/05/09/tools-sonar)
+- [Centos搭建Android CI环境](https://tangjianye.github.io/android/2017/05/23/android-centos-jenkins)
+- [Gradle依赖的统一管理](https://tangjianye.github.io/android/2017/05/02/gradle-config)
+
+---
+
 # 技能清单
 
 以下均为我熟练使用的技能    
-- 开发语言：C/Java(Andorid)
-- 操作系统：Windows/Ubuntu/Centos
-- 前端框架：AngularJS/HTML5/ionic2
-- 开发工具：WebStorm/SourceTree/Android Studio/Eclipse/Atom/Genymotion
-- 版本管理、文档和自动化部署工具：Svn/Git/Jenkins/SonarQube/Tomcat/Markdown/Bintray
-- 单元测试：JUnit/Espresso
-- 云和开放平台：友盟/百度开发者平台/微信开放平台/蒲公英/Teambition
+- 开发语言：C / Java(Andorid)
+- 操作系统：Windows / Ubuntu / Centos
+- 前端框架：AngularJS / HTML5 / ionic2
+- 开发工具：WebStorm / SourceTree / Android Studio / Eclipse / Atom / Genymotion
+- 版本管理、文档和自动化部署工具：Svn / Git / Jenkins / SonarQube / Tomcat / Markdown / Bintray / Gradle
+- 单元测试：JUnit / Espresso
+- 云和开放平台：友盟 / 百度开发者平台 / 微信开放平台 / 蒲公英 / Teambition
 
 以下均为我熟练使用的android技能  
 - 第三方库:GreenDao、Okhttp、Leakcanary、~~Universal-ImageLoader~~、Picasso、Glide、Fresco、Butterknife、Volley、PullToRefreshListView、Eventbus、Gson、RxJava、Retrofit、Zxing、MpAndroidChart
