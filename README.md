@@ -111,9 +111,12 @@ APPcrash的监控和内存检查的引入让项目的BUG在开发阶段就及早
 简单罗列几个我的blog文章链接，也可以直接进入我的博客空间[https://tangjianye.github.io](https://tangjianye.github.io)查看全部blog。
 
 - [Android应用商店上架指南](https://tangjianye.github.io/android/2017/05/12/android-online-guide)
+- [Gradle依赖的统一管理](https://tangjianye.github.io/android/2017/05/02/gradle-config)
+- [App开发流程规范](https://tangjianye.github.io/standard/2017/03/08/app-dvpt-standard)
 - [Android项目集成Sonar](https://tangjianye.github.io/tools/2017/05/09/tools-sonar)
 - [Centos搭建Android CI环境](https://tangjianye.github.io/android/2017/05/23/android-centos-jenkins)
-- [Gradle依赖的统一管理](https://tangjianye.github.io/android/2017/05/02/gradle-config)
+- [Android库上传jcenter仓库](https://tangjianye.github.io/tools/2017/06/01/bintray)
+
 
 ---
 
