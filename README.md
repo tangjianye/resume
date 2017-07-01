@@ -1,7 +1,7 @@
 # 联系方式
 
 - 手机号码：18680689772
-- Email：jaya.tang.vip@gmail.com
+- Email: [jaya.tang.vip@gmail.com](mailto:jaya.tang.vip@gmail.com)
 - QQ / 微信号：457413151  
 
 ---
