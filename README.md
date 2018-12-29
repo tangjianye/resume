@@ -1,7 +1,7 @@
 # 联系方式
 
-- 手机号码：18680689772
-- Email: [jaya.tang.vip@gmail.com](mailto:jaya.tang.vip@gmail.com)
+- 手机号码：15116276628
+- Email: [jayatang@163.com](mailto:jayatang@163.com)
 - QQ / 微信号：457413151  
 
 ---
@@ -9,12 +9,13 @@
 # 个人信息
 
 - 唐建业 / 男 / 1987 
-- 本科 / 湖南科技大学电子信息工程专业 
-- 工作年限：9年
+- 本科 / 湖南科技大学-电子信息工程专业 
+- 工作年限：11年
 - 技术博客：[https://tangjianye.github.io](https://tangjianye.github.io)
+- 技术Wiki：[https://github.com/tangjianye/tangjianye.github.io/wiki](https://github.com/tangjianye/tangjianye.github.io/wiki)
 - 开源项目：[https://github.com/tangjianye](https://github.com/tangjianye)
 - 期望职位：Android高级程序员、APP应用架构师
-- 期望薪资：税前月薪15k~20k，特别喜欢的公司可例外
+- 期望薪资：税前月薪15k~20k
 - 期望城市：长沙  
 
 ---
@@ -28,10 +29,10 @@
 | 湖南奥昇信息技术有限公司 | 2017年2月 ~ 至今 | 移动组组长 |
 
 工作职责描述：  
-- 负责移动端(android、ios)项目的工作任务和工作计划的制定、分配和日程管理
+- 负责移动端android/ios/微信小程序项目的工作任务和工作计划的制定、分配和日程管理
 - 负责android项目的框架搭建、代码规范的编写
 - 负责android项目公共库的搭建，上传jcenter仓库供其他项目使用
-- 负责搭建和部署APP持续集成、每日构建和代码检查的环境
+- 负责移动端android/ios/微信小程序项目的持续集成、每日构建和代码检查的环境搭建
 
 ### 奥昇云校项目 
 
@@ -123,16 +124,15 @@ Android手机维护的应用软件包括：游戏大厅、用户反馈、售后�
 - [Centos搭建Android CI环境](https://tangjianye.github.io/android/2017/05/23/android-centos-jenkins)
 - [Android库上传jcenter仓库](https://tangjianye.github.io/tools/2017/06/01/bintray)
 
-
 ---
 
 # 技能清单
 
 以下均为我熟练使用的技能    
 - 开发语言：C / Java(Andorid)
-- 操作系统：Windows / Ubuntu / Centos
-- 前端框架：AngularJS / HTML5 / ionic2
-- 开发工具：WebStorm / SourceTree / Android Studio / Eclipse / Atom / Genymotion
+- 操作系统：Windows / Ubuntu / Centos / Mac
+- 前端框架：Angular / HTML5 / ionic2 
+- 开发工具：WebStorm / SourceTree / Android Studio / Eclipse / Atom / Genymotion / 微信小程序IDE
 - 版本管理、文档和自动化部署工具：Svn / Git / Jenkins / SonarQube / Tomcat / Markdown / Bintray / Gradle
 - 单元测试：JUnit / Espresso
 - 云和开放平台：友盟 / 百度开发者平台 / 微信开放平台 / 蒲公英 / Teambition
