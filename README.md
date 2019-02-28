@@ -1,9 +1,8 @@
-
 # 个人信息
 
 - 唐建业 / 男 / 1987
 - 手机号码：15116276628
-- Email: [jayatang@163.com](mailto:jayatang@163.com)
+- 电子邮箱：[jayatang@163.com](mailto:jayatang@163.com)
 - 学历：本科 / 湖南科技大学-电子信息工程专业
 - 工作年限：12年
 - 技术博客：[https://tangjianye.github.io](https://tangjianye.github.io)
@@ -30,6 +29,8 @@
 - 负责 Android 项目公共库的搭建，并且发布到远程仓库供其他项目使用
 - 负责移动端项目的第三方技术选型和组织技术预研
 - 负责移动端 Android / iOS / 微信小程序 项目的 Jenkins 持续集成、自动构建和代码检查的环境搭建
+
+公司从事智慧城市项目开发，期间开发的项目包括教育、医疗、旅游、可视化和扶贫等相关项目。我主要参与了项目里面移动端的公共库、视频 webrtc 库、教育和医疗项目的开发。            
 
 ### 奥昇智慧医疗项目
 
@@ -113,8 +114,7 @@ Android 手机维护的应用软件包括：游戏大厅、用户反馈、售后
 
 ## 技术文章
 
-简单罗列部分我的【技术博客】
-和【技术Wiki】里面的文章   
+简单罗列部分我的【技术博客】和【技术Wiki】里面的文章      
 
 - [Android代码规范](https://github.com/tangjianye/tangjianye.github.io/wiki/Android代码规范)
 - [Gitlab触发Jenkins构建](https://github.com/tangjianye/tangjianye.github.io/wiki/Gitlab触发Jenkins构建)
@@ -135,12 +135,12 @@ Android 手机维护的应用软件包括：游戏大厅、用户反馈、售后
 - 操作系统：Windows / Ubuntu / Centos / Mac
 - 前端框架：Angular / ionic2
 - 开发工具：WebStorm / Android Studio / Eclipse / Atom / Genymotion / 微信小程序IDE
-- 版本管理、文档和自动化部署工具：Svn / Git / Gitlab / Jenkins / SonarQube / Tomcat / Markdown / Bintray / Gradle / Jcenter / Maven / Gitlab / Jira
+- 版本管理、文档和自动化部署工具：Svn / Git / Gitlab / Jenkins / SonarQube / Tomcat / Markdown / Bintray / Gradle / Jcenter / Maven / Gitlab / Jira / Xshell
 - 单元测试：JUnit / Espresso
 - 云和开放平台：友盟 / 百度开发者平台 / 微信开放平台 / 蒲公英 / Teambition
 
 以下均为我熟练使用的 Android 技能  
-- 第三方库:GreenDao、Okhttp、Leakcanary、~~Universal-ImageLoader~~、Picasso、Glide、Fresco、Butterknife、Volley、PullToRefreshListView、Eventbus、Gson、RxJava、Retrofit、Zxing、MpAndroidChart
+- 第三方库:GreenDao、Okhttp、Leakcanary、Picasso、Glide、Fresco、Butterknife、Volley、PullToRefreshListView、Eventbus、Gson、RxJava、Retrofit、Zxing、MpAndroidChart
 - MaterialDesign特性:Toolbar、RecycleView、TabLayout、SwipeRefreshLayout、Navigationview
 - 远程仓库、DataBinding、资源混淆、微信支付、支付宝支付、友盟统计和百度推送等技术
 
@@ -160,4 +160,5 @@ Android 手机维护的应用软件包括：游戏大厅、用户反馈、售后
 ---
 
 # 致谢
+
 感谢您花时间阅读我的简历，期待能有机会和您共事。
