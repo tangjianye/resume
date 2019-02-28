@@ -4,7 +4,7 @@
 - 手机号码：15116276628
 - 电子邮箱：[jayatang@163.com](mailto:jayatang@163.com)
 - 学历：本科 / 湖南科技大学-电子信息工程专业
-- 工作年限：12年
+- 工作年限：10年
 - 技术博客：[https://tangjianye.github.io](https://tangjianye.github.io)
 - 技术Wiki：[https://github.com/tangjianye/tangjianye.github.io/wiki](https://github.com/tangjianye/tangjianye.github.io/wiki)
 - 开源项目：[https://github.com/tangjianye](https://github.com/tangjianye)
