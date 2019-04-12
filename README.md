@@ -1,4 +1,4 @@
-# 个人信息
+﻿# 个人信息
 
 - 唐建业 / 男 / 1987
 - 手机号码：15116276628
@@ -27,8 +27,9 @@
 - 负责规划 iOS 项目的框架搭建、代码规范的制定和编写
 - 负责 Android 项目的框架搭建、代码规范的制定和编写
 - 负责 Android 项目公共库的搭建，并且发布到远程仓库供其他项目使用
-- 负责移动端项目的第三方技术选型和组织技术预研
-- 负责移动端 Android / iOS / 微信小程序 项目的 Jenkins 持续集成、自动构建和代码检查的环境搭建
+- 负责移动端项目的第三方技术选型和组织技术预研    
+- 负责移动端 Android / iOS / 微信小程序 项目的 Jenkins 持续集成、自动构建和代码检查的环境搭建      
+- 作为项目经理协助公司旅游项目通过CMMI3认证        
 
 公司从事智慧城市项目开发，期间开发的项目包括教育、医疗、旅游、可视化和扶贫等相关项目。我主要参与了项目里面移动端的公共库、视频 webrtc 库、教育和医疗项目的开发。            
 
@@ -130,12 +131,12 @@ Android 手机维护的应用软件包括：游戏大厅、用户反馈、售后
 
 # 技能清单
 
-以下均为我熟练使用的技能    
-- 开发语言：C / Java(Andorid) / JavaScript
+以下均为我熟练使用的技能      
+- 开发语言：C / Java(Andorid) / JavaScript / Objective-C（入门）          
 - 操作系统：Windows / Ubuntu / Centos / Mac
 - 前端框架：Angular / ionic2
-- 开发工具：WebStorm / Android Studio / Eclipse / Atom / Genymotion / 微信小程序IDE
-- 版本管理、文档和自动化部署工具：Svn / Git / Gitlab / Jenkins / SonarQube / Tomcat / Markdown / Bintray / Gradle / Jcenter / Maven / Gitlab / Jira / Xshell
+- 开发工具：WebStorm / Android Studio / Eclipse / Atom / 微信小程序IDE
+- 版本管理、文档和自动化部署工具：Svn / Git / Gitlab / Jenkins / SonarQube / Tomcat / Markdown / Bintray / Gradle / Jcenter / Jira / Xshell
 - 单元测试：JUnit / Espresso
 - 云和开放平台：友盟 / 百度开发者平台 / 微信开放平台 / 蒲公英 / Teambition
 
@@ -144,6 +145,7 @@ Android 手机维护的应用软件包括：游戏大厅、用户反馈、售后
 - MaterialDesign特性:Toolbar、RecycleView、TabLayout、SwipeRefreshLayout、Navigationview
 - 远程仓库、DataBinding、资源混淆、微信支付、支付宝支付、友盟统计和百度推送等技术
 
+此外还拥有微信小程序开发能力和入门级别的iOS应用程序开发能力                   
 ---
 
 # 专利
