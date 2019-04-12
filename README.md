@@ -143,9 +143,10 @@ Android 手机维护的应用软件包括：游戏大厅、用户反馈、售后
 以下均为我熟练使用的 Android 技能  
 - 第三方库:GreenDao、Okhttp、Leakcanary、Picasso、Glide、Fresco、Butterknife、Volley、PullToRefreshListView、Eventbus、Gson、RxJava、Retrofit、Zxing、MpAndroidChart
 - MaterialDesign特性:Toolbar、RecycleView、TabLayout、SwipeRefreshLayout、Navigationview
-- 远程仓库、DataBinding、资源混淆、微信支付、支付宝支付、友盟统计和百度推送等技术
+- 远程仓库、DataBinding、资源混淆、微信支付、支付宝支付、友盟统计和百度推送等技术      
 
-此外还拥有微信小程序开发能力和入门级别的iOS应用程序开发能力                   
+此外还拥有微信小程序开发能力和入门级别的iOS应用程序开发能力    
+        
 ---
 
 # 专利
