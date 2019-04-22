@@ -1,9 +1,10 @@
-﻿# 个人信息
+# 个人信息
 
 - 唐建业 / 男 / 1987
 - 手机号码：15116276628
 - 电子邮箱：[jayatang@163.com](mailto:jayatang@163.com)
 - 学历：本科 / 湖南科技大学-电子信息工程专业
+- 英语水平：四级    
 - 工作年限：10年
 - 技术博客：[https://tangjianye.github.io](https://tangjianye.github.io)
 - 技术Wiki：[https://github.com/tangjianye/tangjianye.github.io/wiki](https://github.com/tangjianye/tangjianye.github.io/wiki)
