@@ -10,7 +10,7 @@
 - 技术Wiki：[https://github.com/tangjianye/tangjianye.github.io/wiki](https://github.com/tangjianye/tangjianye.github.io/wiki)
 - 开源项目：[https://github.com/tangjianye](https://github.com/tangjianye)
 - 期望职位：Android高级程序员、APP应用架构师、移动端负责人
-- 期望薪资：税前月薪15k~20k
+- 期望薪资：面谈   
 - 期望城市：长沙  
 
 ---
@@ -29,7 +29,7 @@
 - 负责 Android 项目的框架搭建、代码规范的制定和编写
 - 负责 Android 项目公共库的搭建，并且发布到远程仓库供其他项目使用
 - 负责移动端项目的第三方技术选型和组织技术预研    
-- 负责移动端 Android / iOS / 微信小程序 项目的 Jenkins 持续集成、自动构建和代码检查的环境搭建   
+- 负责移动端 Android / iOS / 微信小程序 项目的 Jenkins 持续集成、Pipeline 自动构建和 SonarQube 代码检查的环境搭建   
 - 协助公司运维同事通过 Jenkins 搭建统一的 CI/CD 环境，包括后台 / 前端 / Android / iOS / 微信小程序项目   
 - 作为项目经理协助公司旅游项目通过CMMI3认证        
 
@@ -135,7 +135,7 @@ Android 手机维护的应用软件包括：游戏大厅、用户反馈、售后
 
 以下均为我熟练使用的技能      
 - 开发语言：C / Java(Andorid) / JavaScript / Objective-C（入门）          
-- 操作系统：Windows / Ubuntu / Centos / Mac
+- 操作系统：Windows / Ubuntu / Centos / MacOS
 - 前端框架：Angular / ionic2
 - 开发工具：WebStorm / Android Studio / Eclipse / Atom / 微信小程序IDE
 - 版本管理、文档和自动化部署工具：Svn / Git / Gitlab / Jenkins / SonarQube / Tomcat / Markdown / Bintray / Gradle / Jcenter / Jira / Xshell / DevOps   
