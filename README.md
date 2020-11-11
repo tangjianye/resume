@@ -5,7 +5,7 @@
 - 电子邮箱：[jayatang@163.com](mailto:jayatang@163.com)
 - 学历：本科 / 湖南科技大学-电子信息工程专业
 - 英语水平：四级    
-- 工作年限：10年
+- 工作年限：10+年
 - 技术博客：[https://tangjianye.github.io](https://tangjianye.github.io)
 - 技术Wiki：[https://github.com/tangjianye/tangjianye.github.io/wiki](https://github.com/tangjianye/tangjianye.github.io/wiki)
 - 开源项目：[https://github.com/tangjianye](https://github.com/tangjianye)
@@ -21,7 +21,7 @@
 
 |         公司名字         |     工作时间     |  工作岗位  |
 | :-----------------: | :-------------------: | :-------------: |
-| 湖南奥昇信息技术有限公司 | 2017年2月 ~ 至今 | 移动端组长 |
+| 湖南奥昇信息技术有限公司 | 2017年2月 ~ 至今 | 移动端组长/项目经理 |
 
 工作职责描述：  
 - 负责移动端 Android / iOS / 微信小程序 项目的工作任务和工作计划的制定、分配和日常管理
@@ -33,7 +33,12 @@
 - 协助公司运维同事通过 Jenkins 搭建统一的 CI/CD 环境，包括后台 / 前端 / Android / iOS / 微信小程序项目   
 - 作为项目经理协助公司旅游项目通过CMMI3认证        
 
-公司从事智慧城市项目开发，期间开发的项目包括教育、医疗、旅游、可视化和扶贫等相关项目。我主要参与了项目里面移动端的公共库、视频 webrtc 库、教育和医疗项目的开发。            
+公司从事智慧城市项目开发，期间开发的项目包括教育、医疗、旅游、可视化和扶贫等相关项目。我主要参与了项目里面移动端的公共库、视频 webrtc 库、教育、医疗和国网等项目的开发。            
+
+### e链国网一站式服务平台
+
+- 项目描述：e链国网一站式服务平台建设，面向国家电网内外部用户提供供应链相关业务和信息服务，聚焦一站登录、信息共享、应用整合、外网建设四大目标，创建一站式服务体系，实现一网通办效果，达到优化营商环境、提高服务质效目的。  
+- 责任描述：作为整个项目的项目经理，办理驻场开发事宜、人员需求编制、人员招聘、工作计划分配、以及和国网项目经理、国网信通公司的多方协调。尤其是在组织协调完成开发工作的同时，同步完成了电科院和国网信通公司的软件测评报告。 
 
 ### 奥昇智慧医疗项目
 
@@ -137,7 +142,7 @@ Android 手机维护的应用软件包括：游戏大厅、用户反馈、售后
 - 开发语言：C / Java(Andorid) / JavaScript / Objective-C（入门）          
 - 操作系统：Windows / Ubuntu / Centos / MacOS
 - 前端框架：Angular / ionic2
-- 开发工具：WebStorm / Android Studio / Eclipse / Atom / 微信小程序IDE
+- 开发工具：WebStorm / Android Studio / Eclipse / Atom / 微信小程序IDE / Xcode
 - 版本管理、文档和自动化部署工具：Svn / Git / Gitlab / Jenkins / SonarQube / Tomcat / Markdown / Bintray / Gradle / Jcenter / Jira / Xshell / DevOps   
 - 单元测试：JUnit / Espresso
 - 云和开放平台：友盟 / 百度开发者平台 / 微信开放平台 / 蒲公英 / Teambition
