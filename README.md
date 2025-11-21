@@ -1,9 +1,3 @@
----
-layout: default
-title: 唐建业的个人简历
-description: 10年+移动开发经验，Android和React专家
----
-
 # 个人信息
 
 - 唐建业 / 男 / 1987
