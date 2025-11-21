@@ -6,9 +6,9 @@
 - 学历：本科 / 湖南科技大学-电子信息工程专业
 - 英语水平：四级
 - 工作年限：10+年
-- 技术博客：https://tangjianye.github.io
-- 技术Wiki：https://github.com/tangjianye/tangjianye.github.io/wiki
-- 开源项目：https://github.com/tangjianye
+- 技术博客：[https://tangjianye.github.io](https://tangjianye.github.io)
+- 技术Wiki：[https://github.com/tangjianye/tangjianye.github.io/wiki](https://github.com/tangjianye/tangjianye.github.io/wiki)
+- 开源项目：[https://github.com/tangjianye](https://github.com/tangjianye)
 - 期望职位：React程序员、Android程序员、App应用架构师、移动端负责人
 - 期望薪资：面谈
 - 期望城市：长沙
