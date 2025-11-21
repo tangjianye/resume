@@ -170,21 +170,18 @@ Android 手机维护的应用软件包括：游戏大厅、用户反馈、售后
 
 ---
 
-# 开源项目和作品
+# 开源项目
 
-## 技术文章
+开源项目：
+- [Android 公共库](https://github.com/aorise-org/maven-snapshots)
+- [移动端 MNN 图片向量解析](https://github.com/wegomnn/android-maven)
 
-技术文章精选
-
+技术文章精选：
 - [Android代码规范](https://github.com/tangjianye/tangjianye.github.io/wiki/Android代码规范)
 - [Gitlab触发Jenkins构建](https://github.com/tangjianye/tangjianye.github.io/wiki/Gitlab触发Jenkins构建)
 - [移动端持续构建](https://github.com/tangjianye/tangjianye.github.io/wiki/移动端持续构建)
 - [Android应用商店上架指南](https://tangjianye.github.io/android/2017/05/12/android-online-guide)
-- [Gradle依赖的统一管理](https://tangjianye.github.io/android/2017/05/02/gradle-config)
 - [App开发流程规范](https://tangjianye.github.io/standard/2017/03/08/app-dvpt-standard)
-- [Android项目集成Sonar](https://tangjianye.github.io/tools/2017/05/09/tools-sonar)
-- [Centos搭建Android CI环境](https://tangjianye.github.io/android/2017/05/23/android-centos-jenkins)
-- [Android库上传jcenter仓库](https://tangjianye.github.io/tools/2017/06/01/bintray)
 
 ---
 
@@ -209,7 +206,7 @@ Android 专业技能：
 
 ---
 
-# 专利
+# 国家专利
 
 以下均为我申请的国家专利（都至少进入实审阶段）
 - 一种定位终端的方法及终端 —— 申请号：201310361838.9
